@@ -1,0 +1,85 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.rekt {
+  height: 175px;
+  width: 350px;
+  margin-top: 20px;
+  margin: 20px;
+}
+#red {
+  background-color: red;
+  position: relative;
+  display: inline-block;
+  margin-left: 75px;
+}
+#blue {
+  background-color: blue;
+  position: relative;
+  display: inline-block;
+}
+#black {
+  background-color: black;
+  position: relative;
+  display: inline-block;
+}
+.text-space {
+  width: 100%;
+  height: 500px;
+  background-color: white;
+  padding-left: 5px;
+  padding-top: 20px;
+}
+.lorem-ipsum {
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 5%;
+  margin-right: 5%;
+  color: #8B8D7A;
+}
+.bottom {
+  height: 350px;
+  display: inline-block;
+  margin-left: 30px;
+}
+#small {
+  position: relative;
+  left: 20px;
+  width: 23%;
+  background-color: red;
+  margin-left: 4.5%;
+}
+#large {
+  background-color: blue;
+  width: 63.5%;
+  margin-right: 4.5%;
+  position: relative;
+  right: 20px;
+}
+#container {
+  height: 150px;
+  width: 86.2%;
+  margin: 3%;
+  position: relative;
+  left: 37.5px;
+  background-color: blue;
+  display: block;
+}
+#div1 {
+  background-color: red;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  right: 0px;
+}
+#div2 {
+  position: absolute;
+  right: 25px;
+  background-color: black;
+  height: 150px;
+  width: 200px;
+}
