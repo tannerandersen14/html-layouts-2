@@ -1,0 +1,99 @@
+#underlay {
+  background-color: white;
+  width: 100%;
+  height: 100vh;
+}
+#header {
+  width: 100%;
+  height: 100px;
+  background-color: #0e1717;
+  float: top;
+}
+.tm {
+  color: white;
+  font-size: 25px;
+  font-family: serif;
+  font-weight: lighter;
+}
+#apple {
+  position: absolute;
+  left: 60px;
+  top: 40px;
+}
+#google {
+  position: absolute;
+  left: 175px;
+  top: 40px;
+}
+#sec1 {
+  position: absolute;
+  top: 175px;
+  left: 45px;
+  background-color: white;
+  height: 1100px;
+  width: 550px;
+  text-align: left;
+  color: #0e1717;
+}
+#sec2 {
+  position: absolute;
+  top: 200px;
+  background-color: white;
+  height: 1100px;
+  width: 550px;
+  text-align: left;
+  color: #0e1717;
+  right: 125px;
+}
+#title {
+  font-size: 65px;
+}
+.text {
+  font-size: 18px;
+  left: 0px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+#par1 {
+  position: absolute;
+  top: 80px;
+}
+#par2 {
+  position: absolute;
+  bottom: 700px;
+}
+#par3 {
+  position: absolute;
+  bottom: 525px;
+}
+#par4 {
+  position: absolute;
+  bottom: 350px;
+}
+#par5 {
+  position: absolute;
+  bottom: 175px;
+}
+#img {
+  position: absolute;
+}
+#cat {
+  position: absolute;
+  height: 400px;
+  width: 550px;
+}
+#par6 {
+  position: absolute;
+  top: 425px;
+}
+#par7 {
+  position: absolute;
+  top: 600px;
+}
+#foot {
+  width: 100%;
+  height: 100px;
+  background-color: #0e1717;
+  position: absolute;
+  top: 1200px;
+}
